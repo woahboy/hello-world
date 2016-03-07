@@ -1,5 +1,4 @@
 # hello-world
-This is just a test repository
 
 My name is Justin and I live in Chicago, although I wish I lived in California
 now, which is where I grew up. 
